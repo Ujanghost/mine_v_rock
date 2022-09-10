@@ -19,7 +19,7 @@ Change the input data variable inside the code.
 input_data=()  #enter your data inside the parenthesis 
 #output depending on the data can  be
 #['M/R']
-#The object is a Rock.
+#The object is a Rock/Mine.
 ```
 
 ## Contributing
